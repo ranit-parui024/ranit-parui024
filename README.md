@@ -2,7 +2,7 @@ Hlo everyone. Myself Ranit Parui
 <br>
 --> I'm currently pursuing Btech in Information Technology from Government College of Engineering and Leather Technology
 <br>
---> I'm currently live in Kolkata
+--> I currently live in Kolkata
 <br>
 --> You can contact me at : ranitparuiofficial@gmail.com
 <br>
