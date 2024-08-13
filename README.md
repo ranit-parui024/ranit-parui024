@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ranit-parui024
-- 👀 I’m interested in ... Computer Field
-- 🌱 I’m currently learning ... Btech in Information Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hlo everyone. Myself Ranit Parui
+<br>
+--> I'm currently pursuing Btech in Information Technology from Government College of Engineering and Leather Technology
+<br>
+--> I'm currently live in Kolkata
+<br>
+--> You can contact me at : ranitparuiofficial@gmail.com
+<br>
+--> Here is my Linkedin Profile : linkedin.com/in/ranit-parui-50b7282b3
 
 <!---
 ranit-parui024/ranit-parui024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
