@@ -6,7 +6,7 @@ Hlo everyone. Myself Ranit Parui
 <br>
 --> You can contact me at : ranitparuiofficial@gmail.com
 <br>
---> Here is my Linkedin Profile : linkedin.com/in/ranit-parui-50b7282b3
+--> Here is my Linkedin Profile : www.linkedin.com/in/ranit-parui-50b7282b3
 
 <!---
 ranit-parui024/ranit-parui024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
